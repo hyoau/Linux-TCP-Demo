@@ -1,4 +1,4 @@
-# Linux-TCP-Demo
+# Linux TCP Demo
 用Linux C 写的一个socket TCP例程，采用C/S模式；过程清晰，易于理解
 
 程序中主要语句说明如下：
